@@ -2,4 +2,4 @@
 جهت نصب سریع ماژول های لاین
 
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
