@@ -22,3 +22,4 @@ urllib3
 humanize
 beautifulsoup4
 akad
+ffmpy
