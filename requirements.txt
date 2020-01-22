@@ -1,0 +1,27 @@
+rsa
+requests
+bs4
+gtts
+googletrans
+html5
+null
+wikipedia
+pytz
+humanfriendly
+pafy
+youtube_dl
+keepalive
+linepy
+linepy==2.0.2
+unzip
+pip --upgrade
+setuptools
+tweepy
+html5lib
+livejson
+six
+urllib3
+humanize
+beautifulsoup4
+akad
+python-apt
