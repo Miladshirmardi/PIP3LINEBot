@@ -12,7 +12,6 @@ pafy
 youtube_dl
 keepalive
 linepy
-linepy==2.0.2
 unzip
 pip --upgrade
 setuptools
