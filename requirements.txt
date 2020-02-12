@@ -12,7 +12,6 @@ pafy
 youtube_dl
 keepalive
 linepy
-unzip
 setuptools
 tweepy
 html5lib
