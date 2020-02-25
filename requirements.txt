@@ -1,3 +1,5 @@
+setuptools
+akad
 rsa
 requests
 bs4
@@ -12,7 +14,6 @@ pafy
 youtube_dl
 keepalive
 linepy
-setuptools
 tweepy
 html5lib
 livejson
@@ -20,7 +21,6 @@ six
 urllib3
 humanize
 beautifulsoup4
-akad
 ffmpy
 PyQRCode
 wikiapi
