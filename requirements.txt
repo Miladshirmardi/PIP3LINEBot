@@ -1,4 +1,3 @@
-setuptools
 akad
 rsa
 requests
