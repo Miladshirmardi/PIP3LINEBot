@@ -1,6 +1,5 @@
 # PIP3LINEBot
 جهت نصب سریع ماژول های لاین
-
-git clone https://github.com/soheilas/PIP3LINEBot
-cd PIP3LINEBot
-pip3 install -r requirements.txt
+```
+curl -o requirements.txt -L https://git.io/JvEdy && pip3 install -r requirements.txt
+```
