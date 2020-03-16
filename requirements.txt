@@ -21,7 +21,3 @@ urllib3
 humanize
 beautifulsoup4
 ffmpy
-PyQRCode
-wikiapi
-paramiko
-zalgo_text
