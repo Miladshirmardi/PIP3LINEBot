@@ -1,7 +1,7 @@
 # PIP3LINEBot
 
 
-### Automatic
+### Automatic (update,upgrade,pypip3,Modules)
 
 Run the below command in terminal:
 
@@ -12,18 +12,11 @@ wget --no-cache -O - https://git.io/JJ8TM | bash
 
 First off, run the below command to update package index:
 
-قبل از نصب ماژول پیش نیاز برای سرور digitalocean
 ```
-sudo apt-get update
-```
-```
-sudo apt-get -y upgrade
-```
-```
-sudo apt-get install -y python3-pip
+sudo apt-get update && apt-get -y upgrade && sudo apt-get install -y python3-pip
 ```
 
-جهت نصب سریع ماژول های لاین
+## Install PyPIP3 For LINE Modules
 ```
 curl -o requirements.txt -L https://git.io/JvEdy && pip3 install -r requirements.txt
 ```
